@@ -7,6 +7,7 @@
   ## Tools I use
   *  Firefox
   *  Google Doc
+  *  visual studio
 
   ## Class Schedule
   | Time | Mon | Tues | Wed | Thurs | Fri |
