@@ -18,6 +18,6 @@
   | 1:00pm |
   | 2:00pm |    | OPS 102 LEC
   | 3:00pm |    |    |    | MTH 140 LEC | OPS 102 SLG |
-  | 4:00pm |
+  | 4:00pm |    |
   
   
